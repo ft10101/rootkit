@@ -9,7 +9,7 @@ Rootkit is able to hide processes, files and grant root privileges. It also have
 https://www.youtube.com/watch?v=6CFnK20EyUURootkits 
 
 ## Want to be surprised:
-see rootkis-list file attached, thank me later.
+see rootkits list file attached, thank me later.
 
 
 ## GitHub Policy on active-malware-or-exploits
