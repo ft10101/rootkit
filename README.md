@@ -8,8 +8,8 @@ Rootkit is able to hide processes, files and grant root privileges. It also have
 ## Want to see how it's done:
 https://www.youtube.com/watch?v=6CFnK20EyUURootkits 
 
-## Want to be surprised: see rootkis-list file attached.
-thank me later.
+## Want to be surprised:
+see rootkis-list file attached, thank me later.
 
 
 ## GitHub Policy on active-malware-or-exploits
