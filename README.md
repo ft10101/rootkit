@@ -1,4 +1,4 @@
-# Rootkits Demonstration for Linux
+# Rootkits Demonstration
 
 ## About
 A rootkit is a collection of computer software, typically malicious, designed to enable access to a computer or an area of its software that is not otherwise allowed.
